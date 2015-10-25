@@ -13,7 +13,7 @@ wrapper.
 ## Instal
 Install nim and nimble and then
 
-	nimble install iup
+	nimble install niup
 
 Download IUP binaries from [here](http://sourceforge.net/projects/iup/files/). Select your version and then select your platform. Newer versions
 come bundled with installation instructions and an install script.
@@ -22,7 +22,7 @@ come bundled with installation instructions and an install script.
 To access all the functionality in iup, import the top level iup module. If you would like to only use specific functionality from IUP then import
 from the iup sub directory.
 
-E.g. `import iup` will enable all functionality, `import iup.iup_core` will only import the core IUP functions.
+E.g. `import niup` will enable all functionality, `import niup.iup_core` will only import the core IUP functions.
 
 ## Documentation
 Please visit the [IUP documentation](http://webserver2.tecgraf.puc-rio.br/iup/) for details about the toolkit

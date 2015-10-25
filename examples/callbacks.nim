@@ -1,4 +1,4 @@
-import iup
+import niup as iup
 
 
 proc btn_click(ih:PIhandle):cint {.cdecl.}=

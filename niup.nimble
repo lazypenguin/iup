@@ -1,7 +1,7 @@
 [Package]
-name          = "iup"
-version       = "3.0.0"
-author        = "Andreas Rumpf"
+name          = "niup"
+version       = "3.16.0"
+author        = "Ralph Minderhoud"
 description   = "Nim wrapper for IUP"
 license       = "MIT"
 

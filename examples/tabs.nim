@@ -2,7 +2,7 @@
 
 # iupTabs: Creates a iupTabs control.
 
-import iup
+import niup as iup
 
 discard iup.open(nil, nil)
 
